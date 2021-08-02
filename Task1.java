@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LinearPrograms1 {
+public class Task1 {
     public static void main(String[] args) {
         double a;
         double b;
